@@ -21,6 +21,6 @@
 <br>
 <div id="calculator-section">
   <h2>Calculator</h2>
-  <p>we made calculator uning javascript eval() global function to calculate the inputs.</p>
+  <p>I made calculator using javascript eval() global function to calculate the inputs.</p>
   <img height=300px src="./images/calculator.PNG" alt="image of the calculator in sebsite">
 </div>
