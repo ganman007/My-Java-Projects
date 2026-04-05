@@ -21,4 +21,6 @@
 <br>
 <div id="calculator-section">
   <h2>Calculator</h2>
+  <p>we made calculator uning javascript eval() global function to calculate the inputs.</p>
+  <img src="./images/calculator.png">
 </div>
