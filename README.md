@@ -15,8 +15,8 @@
   <li>Random Password Generator(<a href="#randompass-section">Goto</a>)</li>
   <li>Rock-Paper-Scissor Game(<a href="#rps-section">Goto</a>)</li>
   <li>Stop Watch(<a href="#stopwatch-section">Goto</a>)</li>
-  <li>Temperature Conversion</li>
-  <li>Basic Layout Of Website</li>
+  <li>Temperature Conversion(<a href="#temp-section">Goto</a>)</li>
+  <li>Basic Layout Of Website(<a href="#layout-section">Goto</a>)</li>
 </ul>
 <br>
 <div id="calculator-section">
@@ -84,4 +84,16 @@
   <h2>StopWatch</h2>
   <p>I made StopWatch using javascript.it uses Date() object for calculate the time in milliseconds since It started we use that time time for stopwatch time calculation start and stop </p>
   <kbd><img height=300px src="./images/stopwatch.png" alt="image of the StopWatch in website"></kbd>
+</div>
+
+<div id="temp-section">
+  <h2>Temperature Conversion</h2>
+  <p>I made Temperature Conversion using javascript.it uses simple temperature conversion formula(for fahrenheat conversion(temp*9/5+32)for celcius conversion((temp - 32) * (5 / 9))) to calculate the output</p>
+  <kbd><img height=300px src="./images/temprature-conversion.png" alt="image of the TemperatureConversion in website"></kbd>
+</div>
+
+<div id="layout-section">
+  <h2>Basic HTML Layout</h2>
+  <p>I made Basic HTML Website Layout using HTML/CSS.</p>
+  <kbd><img height=300px src="./images/layout.png" alt="image of the BasicWebpage in website"></kbd>
 </div>
