@@ -1,5 +1,5 @@
 # My-Java-Projects
-<h2>A Collection of My JavaScript Projects and Exercises</h2>
+<h2>A Collection of My Simple JavaScript Projects and Exercises</h2>
 <br>
 <p>My Collection Of Project Includes:</p>
 
