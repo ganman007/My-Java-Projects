@@ -4,7 +4,7 @@
 <p>My Collection Of Project Includes:</p>
 
 <ul>
-  <li>Calculator</li>
+  <li>Calculator(<a>Goto</a>)</li>
   <li>Dice Roller</li>
   <li>Digital Clock</li>
   <li>Image Slider</li>
