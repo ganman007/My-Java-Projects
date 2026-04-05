@@ -4,7 +4,7 @@
 <p>My Collection Of Project Includes:</p>
 
 <ul>
-  <li>Calculator(<a href="https://google.com">Goto</a>)</li>
+  <li>Calculator(<a href="#calculator-section">Goto</a>)</li>
   <li>Dice Roller</li>
   <li>Digital Clock</li>
   <li>Image Slider</li>
@@ -18,3 +18,7 @@
   <li>Temperature Conversion</li>
   <li>Basic Layout Of Website</li>
 </ul>
+<br>
+<div id="calculator-section">
+  <h2>Calculator</h2>
+</div>
