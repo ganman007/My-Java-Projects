@@ -9,7 +9,7 @@
   <li>Digital Clock(<a href="#digitalclock-section">Goto</a>)</li>
   <li>Image Slider(<a href="#imageslider-section">Goto</a>)</li>
   <li>Counter(<a href="#counter-section">Goto</a>)</li>
-  <li>Weather App</li>
+  <li>Weather App(<a href="#weather-section">Goto</a>)</li>
   <li>Circumference Finder</li>
   <li>Number Guessing Game</li>
   <li>Random Password Generator</li>
@@ -49,7 +49,7 @@
   <kbd><img height=300px src="./images/counter.png" alt="image of the counter in website"></kbd>
 </div>
 
-<div id="Weather-section">
+<div id="weather-section">
   <h2>Weather App</h2>
   <p>I made a Weather App using javascript.it uses api call to receive the data from api and display it</p>
   <kbd><img height=300px src="./images/Weather-app.PNG" alt="image of the weatherapp in website"></kbd>
