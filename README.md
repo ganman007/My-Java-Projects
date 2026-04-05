@@ -27,5 +27,5 @@
 <div id="diceroller-section">
   <h2>Dice Roller</h2>
   <p>I made a Dice Roller using javascript.it uses Math.random() global function to generate random number between 0 ~ 1.we Multiplay by 6 and +1 to get number between 1 and 6</p>
-  <img height=300px src="./images/dice-roller.png" alt="image of the calculator in sebsite">
+  <img style="border:2px solid" height=300px src="./images/dice-roller.png" alt="image of the calculator in sebsite">
 </div>
