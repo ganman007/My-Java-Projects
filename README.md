@@ -9,7 +9,7 @@
   <li>Digital Clock(<a href="#digitalclock-section">Goto</a>)</li>
   <li>Image Slider(<a href="#imageslider-section">Goto</a>)</li>
   <li>Counter(<a href="#counter-section">Goto</a>)</li>
-  <li>Wether App</li>
+  <li>Weather App</li>
   <li>Circumference Finder</li>
   <li>Number Guessing Game</li>
   <li>Random Password Generator</li>
@@ -27,7 +27,7 @@
 
 <div id="diceroller-section">
   <h2>Dice Roller</h2>
-  <p>I made a Dice Roller using javascript.it uses Math.random() global Math object to generate random number between 0 ~ 1.we Multiplay by 6 and +1 to get number between 1 and 6</p>
+  <p>I made a Dice Roller using javascript.it uses Math.random() global Math object to generate random number between 0 ~ 1.we Multiply by 6 and +1 to get number between 1 and 6</p>
   <kbd><img height=300px src="./images/dice-roller.png" alt="image of the diceroller in website"></kbd>
 </div>
 
@@ -47,4 +47,10 @@
   <h2>Counter</h2>
   <p>I made a Counter using javascript.it uses simple ++ and -- syntex to increase or decrease the number</p>
   <kbd><img height=300px src="./images/counter.png" alt="image of the counter in website"></kbd>
+</div>
+
+<div id="Weather-section">
+  <h2>Weather App</h2>
+  <p>I made a Weather App using javascript.it uses api call to receive the data from api and display it</p>
+  <kbd><img height=300px src="./images/Weather-app.PNG" alt="image of the weatherapp in website"></kbd>
 </div>
