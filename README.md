@@ -10,7 +10,7 @@
   <li>Image Slider(<a href="#imageslider-section">Goto</a>)</li>
   <li>Counter(<a href="#counter-section">Goto</a>)</li>
   <li>Weather App(<a href="#weather-section">Goto</a>)</li>
-  <li>Circumference Finder</li>
+  <li>Circumference Finder(<a href="#circumference-section">Goto</a>)</li>
   <li>Number Guessing Game</li>
   <li>Random Password Generator</li>
   <li>Rock-Paper-Scissor Game</li>
@@ -53,4 +53,10 @@
   <h2>Weather App</h2>
   <p>I made a Weather App using javascript.it uses api call to receive the data from api and display it</p>
   <kbd><img height=300px src="./images/Weather-app.PNG" alt="image of the weatherapp in website"></kbd>
+</div>
+
+<div id="circumference-section">
+  <h2>Circumference Finder</h2>
+  <p>I made a Circumference Finder using javascript.it uses Math object like Math.PI() and get radius from user for process the data using formula 2πr </p>
+  <kbd><img height=300px src="./images/circumference Finder.png" alt="image of the circumferenceFinder in website"></kbd>
 </div>
