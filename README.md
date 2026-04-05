@@ -95,5 +95,5 @@
 <div id="layout-section">
   <h2>Basic HTML Layout</h2>
   <p>I made Basic HTML Website Layout using HTML/CSS.</p>
-  <kbd><img height=300px src="./images/layout.png" alt="image of the BasicWebpage in website"></kbd>
+  <kbd><img height=300px src="./images/layout.PNG" alt="image of the BasicWebpage in website"></kbd>
 </div>
