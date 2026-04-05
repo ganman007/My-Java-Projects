@@ -11,7 +11,7 @@
   <li>Counter(<a href="#counter-section">Goto</a>)</li>
   <li>Weather App(<a href="#weather-section">Goto</a>)</li>
   <li>Circumference Finder(<a href="#circumference-section">Goto</a>)</li>
-  <li>Number Guessing Game</li>
+  <li>Number Guessing Game(<a href="#numberguess-section">Goto</a>)</li>
   <li>Random Password Generator</li>
   <li>Rock-Paper-Scissor Game</li>
   <li>Stop Watch</li>
