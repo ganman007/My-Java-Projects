@@ -7,7 +7,7 @@
   <li>Calculator(<a href="#calculator-section">Goto</a>)</li>
   <li>Dice Roller(<a href="#diceroller-section">Goto</a>)</li>
   <li>Digital Clock(<a href="#digitalclock-section">Goto</a>)</li>
-  <li>Image Slider(<a href="#imageslider-section">Goto</a></li>
+  <li>Image Slider(<a href="#imageslider-section">Goto</a>)</li>
   <li>Counter</li>
   <li>Wether App</li>
   <li>Circumference Finder</li>
