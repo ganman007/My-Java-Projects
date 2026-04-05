@@ -12,8 +12,8 @@
   <li>Weather App(<a href="#weather-section">Goto</a>)</li>
   <li>Circumference Finder(<a href="#circumference-section">Goto</a>)</li>
   <li>Number Guessing Game(<a href="#numberguess-section">Goto</a>)</li>
-  <li>Random Password Generator</li>
-  <li>Rock-Paper-Scissor Game</li>
+  <li>Random Password Generator(<a href="#randompass-section">Goto</a>)</li>
+  <li>Rock-Paper-Scissor Game(<a href="#rps-section">Goto</a>)</li>
   <li>Stop Watch</li>
   <li>Temperature Conversion</li>
   <li>Basic Layout Of Website</li>
@@ -66,4 +66,22 @@
   <p>I made a Number Guessing game using javascript.it uses Math.random() to generate a random number and save it to a variable and compare it to user input number </p>
   <kbd><img height=200px src="./images/number game1.png" alt="1st image of the numberguessgame in website"></kbd>
   <kbd><img height=200px src="./images/number game2.png" alt="2nd image of the numberguessgame in website"></kbd>
+</div>
+
+<div id="randompass-section">
+  <h2>Random Password Generator</h2>
+  <p>I made a Random Password Generator using javascript.it uses Math.random() for generate random number and use it for indexing a letter or number </p>
+  <kbd><img height=300px src="./images/password-generator.png" alt="image of the Random Password Generator in website"></kbd>
+</div>
+
+<div id="rps-section">
+  <h2>Rock-Paper-Scissor Game</h2>
+  <p>I made a Rock Paper Scissor using javascript.it uses Math.random() for generate random number and use it for indexing a Rock,Paper,Scissor and compare to user input </p>
+  <kbd><img height=300px src="./images/RPS.png" alt="image of the Random Password Generator in website"></kbd>
+</div>
+
+<div id="stopwatch-section">
+  <h2>StopWatch</h2>
+  <p>I made StopWatch using javascript.it uses Date() object for calculate the time in milliseconds since It started we use that time time for stopwatch time calculation start and stop </p>
+  <kbd><img height=300px src="./images/stopwatch.png" alt="image of the StopWatch in website"></kbd>
 </div>
