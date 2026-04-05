@@ -64,6 +64,6 @@
 <div id="numberguess-section">
   <h2>Number Guessing Game</h2>
   <p>I made a Number Guessing game using javascript.it uses Math.random() to generate a random number and save it to a variable and compare it to user input number </p>
-  <kbd><img height=300px src="./images/number game1.png" alt="1st image of the numberguessgame in website"></kbd>
-  <kbd><img height=300px src="./images/number game2.png" alt="2nd image of the numberguessgame in website"></kbd>
+  <kbd><img height=200px src="./images/number game1.png" alt="1st image of the numberguessgame in website"></kbd>
+  <kbd><img height=200px src="./images/number game2.png" alt="2nd image of the numberguessgame in website"></kbd>
 </div>
