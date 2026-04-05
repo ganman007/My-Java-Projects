@@ -14,7 +14,7 @@
   <li>Number Guessing Game(<a href="#numberguess-section">Goto</a>)</li>
   <li>Random Password Generator(<a href="#randompass-section">Goto</a>)</li>
   <li>Rock-Paper-Scissor Game(<a href="#rps-section">Goto</a>)</li>
-  <li>Stop Watch</li>
+  <li>Stop Watch(<a href="#stopwatch-section">Goto</a>)</li>
   <li>Temperature Conversion</li>
   <li>Basic Layout Of Website</li>
 </ul>
