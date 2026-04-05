@@ -4,12 +4,12 @@
 <p>My Collection Of Project Includes:</p>
 
 <ul>
-  <li>Wether App</li>
   <li>Calculator</li>
   <li>Dice Roller</li>
   <li>Digital Clock</li>
   <li>Image Slider</li>
   <li>Counter</li>
+  <li>Wether App</li>
   <li>Circumference Finder</li>
   <li>Number Guessing Game</li>
   <li>Random Password Generator</li>
