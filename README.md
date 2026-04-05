@@ -22,10 +22,10 @@
 <div id="calculator-section">
   <h2>Calculator</h2>
   <p>I made a calculator using javascript.it uses eval() global function to calculate the inputs.</p>
-  <kbd><img height=300px src="./images/calculator.PNG" alt="image of the calculator in sebsite"></kbd></div>
+  <kbd><img height=300px src="./images/calculator.PNG" alt="image of the calculator in sebsite"></kbd>
 </div>
 <div id="diceroller-section">
   <h2>Dice Roller</h2>
   <p>I made a Dice Roller using javascript.it uses Math.random() global function to generate random number between 0 ~ 1.we Multiplay by 6 and +1 to get number between 1 and 6</p>
-  <img height=300px src="./images/dice-roller.png" alt="image of the calculator in sebsite">
+  <kbd><img height=300px src="./images/dice-roller.png" alt="image of the calculator in sebsite"></kbd>kbd>
 </div>
