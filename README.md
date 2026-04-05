@@ -7,7 +7,7 @@
   <li>Calculator(<a href="#calculator-section">Goto</a>)</li>
   <li>Dice Roller(<a href="#diceroller-section">Goto</a>)</li>
   <li>Digital Clock(<a href="#digitalclock-section">Goto</a>)</li>
-  <li>Image Slider</li>
+  <li>Image Slider(<a href="#imageslider-section">Goto</a></li>
   <li>Counter</li>
   <li>Wether App</li>
   <li>Circumference Finder</li>
@@ -33,4 +33,9 @@
   <h2>Digital Clock</h2>
   <p>I made a Digital Clock using javascript.it uses Date().getHours,getMinutes,getSeconds global object to get the time</p>
   <kbd><img height=300px src="./images/digital-clock.png" alt="image of the DigitalClock in website"></kbd>
+</div>
+<div id="imageslider-section">
+  <h2>Image Slider</h2>
+  <p>I made a Image Slider using javascript.it uses setIntervel() for auto slide image and use button for quick change left and right image</p>
+  <kbd><img height=300px src="./images/image-slider.png" alt="image of the imageslider in website"></kbd>
 </div>
