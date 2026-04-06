@@ -26,7 +26,7 @@
   <br>
 </div>
 <br>
-&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Calculator" target="_blank"><img src="https://img.shields.io/badge/Try%20Calculator-blue?style=for-the-badge" alt="Play Button"></img></a>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Calculator" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20Calculator-blue?style=for-the-badge" alt="Play Button"></img></a>
 
 <br>
 <div id="diceroller-section">
