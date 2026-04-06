@@ -24,7 +24,6 @@
   <p>I made a calculator using javascript.it uses eval() global function to calculate the inputs.</p>
   <kbd><img height=300px src="./images/calculator.PNG" alt="image of the calculator in website"></kbd>
   <br>
-  <a href="https://ganman007.github.io/My-Apps/Apps/Calculator"><img src="https://img.shields.io/badge/Try%20Calculator-blue?style=for-the-badge" alt="Play Button"></img></a>
 </div>
 <br>
 <a href="https://ganman007.github.io/My-Apps/Apps/Calculator"><img src="https://img.shields.io/badge/Try%20Calculator-blue?style=for-the-badge" alt="Play Button"></img></a>
