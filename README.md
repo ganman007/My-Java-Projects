@@ -23,6 +23,7 @@
   <h2>Calculator</h2>
   <p>I made a calculator using javascript.it uses eval() global function to calculate the inputs.</p>
   <kbd><img height=300px src="./images/calculator.PNG" alt="image of the calculator in website"></kbd>
+  <button src="https://ganman007.github.io/My-Apps/Apps/Calculator">Live!</button>
 </div>
 <br>
 <div id="diceroller-section">
