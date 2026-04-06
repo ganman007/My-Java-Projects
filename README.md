@@ -26,7 +26,7 @@
   <br>
 </div>
 <br>
-&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Calculator" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20Calculator-blue?style=for-the-badge" alt="Play Button"></img></a>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Calculator" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
 
 <br>
 <div id="diceroller-section">
@@ -34,6 +34,9 @@
   <p>I made a Dice Roller using javascript.it uses Math.random() global Math object to generate random number between 0 ~ 1.we Multiply by 6 and +1 to get number between 1 and 6</p>
   <kbd><img height=300px src="./images/dice-roller.png" alt="image of the diceroller in website"></kbd>
 </div>
+<br>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Dice" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+
 <br>
 <div id="digitalclock-section">
   <h2>Digital Clock</h2>
@@ -53,17 +56,26 @@
   <kbd><img height=300px src="./images/counter.png" alt="image of the counter in website"></kbd>
 </div>
 <br>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Counter" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+
+<br>
 <div id="weather-section">
   <h2>Weather App</h2>
   <p>I made a Weather App using javascript.it uses api call to receive the data from api and display it</p>
   <kbd><img height=300px src="./images/Weather-app.PNG" alt="image of the weatherapp in website"></kbd>
 </div>
 <br>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Weather App" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+
+<br>
 <div id="circumference-section">
   <h2>Circumference Finder</h2>
   <p>I made a Circumference Finder using javascript.it uses Math object like Math.PI() and get radius from user for process the data using formula 2πr </p>
   <kbd><img height=300px src="./images/circumference Finder.png" alt="image of the circumferenceFinder in website"></kbd>
 </div>
+<br>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Circumference Finder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+
 <br>
 <div id="numberguess-section">
   <h2>Number Guessing Game</h2>
