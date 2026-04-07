@@ -44,11 +44,17 @@
   <kbd><img height=300px src="./images/digital-clock.png" alt="image of the DigitalClock in website"></kbd>
 </div>
 <br>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Digital Clock" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+
+<br>
 <div id="imageslider-section">
   <h2>Image Slider</h2>
   <p>I made a Image Slider using javascript.it uses setIntervel() for auto slide image and use button for quick change left and right image</p>
   <kbd><img height=300px src="./images/image-slider.png" alt="image of the imageslider in website"></kbd>
 </div>
+<br>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Image Slider" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+
 <br>
 <div id="counter-section">
   <h2>Counter</h2>
@@ -83,6 +89,9 @@
   <kbd><img height=200px src="./images/number game1.png" alt="1st image of the numberguessgame in website"></kbd>
   <kbd><img height=200px src="./images/number game2.png" alt="2nd image of the numberguessgame in website"></kbd>
 </div>
+<br>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Number Guess" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+
 <br>
 <div id="randompass-section">
   <h2>Random Password Generator</h2>
