@@ -99,11 +99,17 @@
   <kbd><img height=300px src="./images/password-generator.png" alt="image of the Random Password Generator in website"></kbd>
 </div>
 <br>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Random Password" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+
+<br>
 <div id="rps-section">
   <h2>Rock-Paper-Scissor Game</h2>
   <p>I made a Rock Paper Scissor using javascript.it uses Math.random() for generate random number and use it for indexing a Rock,Paper,Scissor and compare to user input </p>
   <kbd><img height=300px src="./images/RPS.png" alt="image of the Random Password Generator in website"></kbd>
 </div>
+<br>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/RPS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+
 <br>
 <div id="stopwatch-section">
   <h2>StopWatch</h2>
@@ -111,14 +117,23 @@
   <kbd><img height=300px src="./images/stopwatch.png" alt="image of the StopWatch in website"></kbd>
 </div>
 <br>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/StopWatch" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+
+<br>
 <div id="temp-section">
   <h2>Temperature Conversion</h2>
   <p>I made Temperature Conversion using javascript.it uses simple temperature conversion formula(for fahrenheat conversion(temp*9/5+32)for celcius conversion((temp - 32) * (5 / 9))) to calculate the output</p>
   <kbd><img height=300px src="./images/temprature-conversion.png" alt="image of the TemperatureConversion in website"></kbd>
 </div>
 <br>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Temp Conversion" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+
+<br>
 <div id="layout-section">
   <h2>Basic HTML Layout</h2>
   <p>I made Basic HTML Website Layout using HTML/CSS.</p>
   <kbd><img height=300px src="./images/layout.PNG" alt="image of the BasicWebpage in website"></kbd>
 </div>
+<br>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Layout" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+
