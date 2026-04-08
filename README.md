@@ -126,7 +126,7 @@
   <kbd><img height=300px src="./images/temprature-conversion.png" alt="image of the TemperatureConversion in website"></kbd>
 </div>
 <br>
-&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Temp Conversion" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Temp Convertion" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
 
 <br>
 <div id="layout-section">
