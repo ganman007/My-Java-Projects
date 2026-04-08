@@ -99,7 +99,7 @@
   <kbd><img height=300px src="./images/password-generator.png" alt="image of the Random Password Generator in website"></kbd>
 </div>
 <br>
-&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Random Password" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
+&nbsp;&nbsp<a  href="https://ganman007.github.io/My-Apps/Apps/Password Generator" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Try%20App-blue?style=for-the-badge" alt="Play Button"></img></a>
 
 <br>
 <div id="rps-section">
